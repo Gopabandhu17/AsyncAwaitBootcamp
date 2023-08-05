@@ -11,7 +11,7 @@ import SwiftUI
 struct AsyncAwaitBootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            GalleryView()
+            ContinuationBootcamp()
         }
     }
 }

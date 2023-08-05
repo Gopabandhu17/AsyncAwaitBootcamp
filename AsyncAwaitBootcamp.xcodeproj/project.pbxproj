@@ -7,17 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B6EDB242A7E752C000E2AEC /* ContinuationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B6EDB232A7E752C000E2AEC /* ContinuationBootcamp.swift */; };
 		9B9472672A7965FA0053C819 /* AsyncAwaitBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B9472662A7965FA0053C819 /* AsyncAwaitBootcampApp.swift */; };
-		9B9472692A7965FA0053C819 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B9472682A7965FA0053C819 /* ContentView.swift */; };
 		9B94726B2A7965FB0053C819 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B94726A2A7965FB0053C819 /* Assets.xcassets */; };
 		9B94726E2A7965FB0053C819 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B94726D2A7965FB0053C819 /* Preview Assets.xcassets */; };
 		9B9472752A7966140053C819 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B9472742A7966140053C819 /* GalleryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B6EDB232A7E752C000E2AEC /* ContinuationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuationBootcamp.swift; sourceTree = "<group>"; };
 		9B9472632A7965FA0053C819 /* AsyncAwaitBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AsyncAwaitBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B9472662A7965FA0053C819 /* AsyncAwaitBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootcampApp.swift; sourceTree = "<group>"; };
-		9B9472682A7965FA0053C819 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9B94726A2A7965FB0053C819 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B94726D2A7965FB0053C819 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9B9472742A7966140053C819 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
@@ -54,8 +54,8 @@
 			isa = PBXGroup;
 			children = (
 				9B9472662A7965FA0053C819 /* AsyncAwaitBootcampApp.swift */,
-				9B9472682A7965FA0053C819 /* ContentView.swift */,
 				9B9472742A7966140053C819 /* GalleryView.swift */,
+				9B6EDB232A7E752C000E2AEC /* ContinuationBootcamp.swift */,
 				9B94726A2A7965FB0053C819 /* Assets.xcassets */,
 				9B94726C2A7965FB0053C819 /* Preview Content */,
 			);
@@ -140,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9B9472692A7965FA0053C819 /* ContentView.swift in Sources */,
+				9B6EDB242A7E752C000E2AEC /* ContinuationBootcamp.swift in Sources */,
 				9B9472752A7966140053C819 /* GalleryView.swift in Sources */,
 				9B9472672A7965FA0053C819 /* AsyncAwaitBootcampApp.swift in Sources */,
 			);
